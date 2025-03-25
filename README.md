@@ -1,11 +1,3 @@
-<<<<<<< HEAD
-# shorten-url
-=======
----
-title: Short URL Service API Documentation
-
----
-
 # Short URL Service API Documentation
 
 ## API Endpoints
@@ -159,5 +151,3 @@ SECRET_KEY=django-insecure-2#&p3r75wa$9^j4*#jz27*
 
 ---
 
-
->>>>>>> c3ea758 (Add Create Short URL API and Resolve Short URL API to redirect to original URL)
